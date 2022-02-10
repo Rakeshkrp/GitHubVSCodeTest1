@@ -12,7 +12,7 @@ terraform {
     organization = "SREYO"
 
     workspaces {
-      name = "testing-vscode-github"
+      name = "testing_vscode_github"
     }
   }
 
